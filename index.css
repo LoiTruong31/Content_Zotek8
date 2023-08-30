@@ -4,9 +4,21 @@ h1{
     font-size: 100px;
     color: cornflowerblue;
 }
+
+#menu{
+
+}
 #Login{
     position: relative;
     color: red;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
+    margin-right: 10px;
+}
+#Sign_up{
+    position: relative;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-right: 10px;
 }
