@@ -1,24 +1,29 @@
 h1{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 100px;
+    font-size: 50px;
     color: cornflowerblue;
 }
 
 #menu{
-
+    display: flex;
+    justify-content: flex-end;
 }
 #Login{
     position: relative;
     color: red;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
-    margin-right: 10px;
+    font-size: larger;
+    height: fit-content;
+    padding: 10px;
 }
 #Sign_up{
     position: relative;
     color: red;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
-    margin-right: 10px;
+    font-size: larger;
+    height: fit-content;
+    padding: 10px;
 }
