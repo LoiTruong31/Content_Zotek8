@@ -175,7 +175,6 @@ form {
     width: 87%;
     border: none;
     border: 1px solid #DCCBCF;
-    -webkit-appearance: none;
     margin-bottom: 10px;
     background: transparent;
 	font-family: 'Sirin Stencil', cursive;
@@ -188,7 +187,6 @@ form {
     width: 87%;
     border: none;
     border: 1px solid #DCCBCF;
-    -webkit-appearance: none;
     margin-bottom: 10px;
     background: transparent;
 	font-family: 'Sirin Stencil', cursive;
