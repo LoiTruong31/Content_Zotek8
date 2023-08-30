@@ -5,9 +5,11 @@ h1{
     color: cornflowerblue;
 }
 
-#menu{
+#choices{
     display: flex;
+    position: relative;
     justify-content: flex-end;
+    background-color: aquamarine;
 }
 #Logup{
     position: relative;
