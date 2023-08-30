@@ -7,7 +7,7 @@ h1{
 
 #choices{
     display: flex;
-    position: relative;
+    position: relativegit ;
     justify-content: flex-end;
     background-color: aquamarine;
 }
